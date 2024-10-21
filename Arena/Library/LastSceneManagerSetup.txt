@@ -1,5 +1,5 @@
 sceneSetups:
-- path: "Assets/Scenes/MarkSittR\xE6vh\xF8l.unity"
+- path: Assets/Scenes/MainScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
